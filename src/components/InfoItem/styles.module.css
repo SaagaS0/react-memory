@@ -1,0 +1,13 @@
+.main {
+    margin: 20px 0;
+
+}
+.label {
+    font-size: 15px;
+    color: #6A7D8B;
+}
+.value {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
